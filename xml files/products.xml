@@ -1,0 +1,17 @@
+<products>
+	<product>
+		<p_id>0</p_id>
+		<p_name>Wooden Sword</p_name>
+		<p_cost>3</p_cost>
+	</product>
+	<product>
+		<p_id>1</p_id>
+		<p_name>Steel Axe</p_name>
+		<p_cost>6</p_cost>
+	</product>
+	<product>
+		<p_id>2</p_id>
+		<p_name>Magic Bow</p_name>
+		<p_cost>3</p_cost>
+	</product>
+</products>

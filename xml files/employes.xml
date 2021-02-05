@@ -1,0 +1,38 @@
+<employes>
+	<employee>
+		<e_id>0</e_id>
+		<e_fname>John</e_fname>
+		<e_lname>Snow</e_lname>
+		<e_join_date>2000-01-01</e_join_date>
+		<e_job>Warrior</e_job>
+		<e_salary>300</e_salary>
+	</employee>
+	<employee>
+		<e_id>1</e_id>
+		<e_fname>Daenerys</e_fname>
+		<e_lname>Targaryen</e_lname>
+		<e_join_date>2001-02-02</e_join_date>
+		<e_job>Mother of Dragons</e_job>
+		<e_salary>700</e_salary>
+	</employee>
+	<employee>
+		<e_id>2</e_id>
+		<e_fname>Khal</e_fname>
+		<e_lname>Drogo</e_lname>
+		<e_join_date>1999-05-03</e_join_date>
+		<e_job>Nomadic Warrior</e_job>
+		<e_salary>300</e_salary>
+	</employee>
+	<employee>
+		<e_id>3</e_id>
+		<e_fname>Ramsay</e_fname>
+		<e_lname>Bolton</e_lname>
+		<e_join_date>2002-07-03</e_join_date>
+		<e_job>Sadistic Warrior</e_job>
+		<e_salary>300</e_salary>
+	</employee>
+</employes>
+
+
+
+		

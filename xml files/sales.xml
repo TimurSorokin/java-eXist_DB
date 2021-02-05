@@ -1,0 +1,20 @@
+<sales>
+	<sale>
+		<s_id>0</s_id>
+		<s_product>0</s_product>
+		<s_amount>34</s_amount>
+		<s_vendor>1</s_vendor>
+	</sale>
+	<sale>
+		<s_id>1</s_id>
+		<s_product>2</s_product>
+		<s_amount>10</s_amount>
+		<s_vendor>2</s_vendor>
+	</sale>
+	<sale>
+		<s_id>2</s_id>
+		<s_product>1</s_product>
+		<s_amount>3</s_amount>
+		<s_vendor>0</s_vendor>
+	</sale>
+</sales>
